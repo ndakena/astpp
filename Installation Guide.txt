@@ -15,6 +15,7 @@ Step 2: Set execute permission to install.sh file.
 
 Step 3: Start installation process. 
 		./install.sh		
+Step 4:  Please select "debian buster" for OS debian 11 and select "OK" on next screen. 
 
 Once installation done, save the information at safe place. 
 
